@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/OZ_contracts/token/ERC20/TransferHelper.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/OZ_contracts/token/ERC20/TransferHelper.sol": {
+			"keccak256": "0x62e6958dd9f54a88bac734927f957bfc089974a986bb39f771ac917fb63c725f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ad2b3ee9b216920270a7f3aaaaf7ee78c48393f21d5a3696fa76530d4748e9b6",
+				"dweb:/ipfs/QmcbNWaaeVD1phYtdiU99j91KsQDzccj7899pma7onFCnV"
+			]
+		}
+	},
+	"version": 1
+}
